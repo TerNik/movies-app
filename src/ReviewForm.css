@@ -1,0 +1,13 @@
+.ReviewForm {
+    max-width: 500px;
+    margin: auto;
+}
+
+.ReviewForm > div {
+    max-width: 500px;
+    text-align: left;
+}
+
+.ReviewForm span {
+    color: red;
+}

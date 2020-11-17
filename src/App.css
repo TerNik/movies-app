@@ -1,0 +1,19 @@
+.App {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.App > div {
+    margin: 2rem;
+}
+
+.moviesList {
+    flex: 1;
+
+}
+
+.App .movieInfo {
+    flex: 2;
+}
